@@ -26,5 +26,8 @@
     <ClInclude Include="증감 연산자, 반복문.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="컨티뉴문, 시프트 연산자 + 별 찍기 알고리즘 예제.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
