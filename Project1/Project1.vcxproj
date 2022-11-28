@@ -101,7 +101,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -130,9 +130,11 @@
     <ClCompile Include="소스2.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="pragme warning disable code.h" />
     <ClInclude Include="내용 정리 %28~2022 11 22%29.h" />
     <ClInclude Include="증감 연산자, 반복문.h" />
     <ClInclude Include="컨티뉴문, 시프트 연산자 + 별 찍기 알고리즘 예제.h" />
+    <ClInclude Include="모듈러 연산자, while, do while, 복합 대입 연산자.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

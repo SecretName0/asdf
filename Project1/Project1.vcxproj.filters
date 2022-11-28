@@ -29,5 +29,11 @@
     <ClInclude Include="컨티뉴문, 시프트 연산자 + 별 찍기 알고리즘 예제.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="pragme warning disable code.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="모듈러 연산자, while, do while, 복합 대입 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
