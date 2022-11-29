@@ -1,6 +1,11 @@
 #include <stdio.h>
-#pragma warning(disable:4996)
 int main(void)
 {
 
 }
+
+// 포인터
+/*
+ 메모리의 주소 값을 저장할 수 있는 변수
+ 포인터에는 정수, 실수, 문자, 문자열 등은 안되고 오직 주소 값만 들어갈 수 있음
+*/
