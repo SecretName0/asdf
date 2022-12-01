@@ -41,5 +41,8 @@
     <ClInclude Include="포인터.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="입력 함수, 배열.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
