@@ -139,6 +139,7 @@
     <ClInclude Include="002 모듈러 연산자, while, do while, 복합 대입 연산자.h" />
     <ClInclude Include="007 포인터.h" />
     <ClInclude Include="008 문자열 sizeof.h" />
+    <ClInclude Include="009 함수와 매개 변수.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
