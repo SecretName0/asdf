@@ -50,5 +50,8 @@
     <ClInclude Include="009 함수와 매개 변수.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="010 변수의 사용 범위.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
