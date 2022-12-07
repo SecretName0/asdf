@@ -141,6 +141,7 @@
     <ClInclude Include="008 문자열 sizeof.h" />
     <ClInclude Include="009 함수와 매개 변수.h" />
     <ClInclude Include="010 변수의 사용 범위.h" />
+    <ClInclude Include="011 call by value, reference.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
