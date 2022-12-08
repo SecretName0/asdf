@@ -56,5 +56,8 @@
     <ClInclude Include="011 call by value, reference.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="012 재귀함수와 삼항 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
