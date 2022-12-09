@@ -50,3 +50,30 @@ int main(void)
 	printf(" = %d", Factorial(a));
 }
 */
+
+// for문으로 팩토리얼 구현
+/*
+int main(void)
+{
+	int a = 0;
+	int result = 1; // 0으로 선언하면 곱한 값을 담을 수 없음
+
+	scanf_s("%d", &a);
+	printf("입력한 수: %d \n", a);
+	printf("%d! = ", a);
+
+	for (int i=a; i > 0; i--)
+	{
+		if (i > 1)
+		{
+			printf("%d*", i);
+		}
+		else
+		{
+			printf("%d", i);
+		}
+		result *= i;
+	}
+	printf("= %d", result);
+}
+*/

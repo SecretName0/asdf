@@ -59,5 +59,8 @@
     <ClInclude Include="012 재귀함수와 삼항 연산자.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="013 상수 지시 포인터, 포인터 상수, 홀짝 판별기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
