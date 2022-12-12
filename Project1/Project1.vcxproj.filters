@@ -62,5 +62,8 @@
     <ClInclude Include="013 상수 지시 포인터, 포인터 상수, 홀짝 판별기.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="014 포인터 연산.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
