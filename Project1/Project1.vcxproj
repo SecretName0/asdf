@@ -145,6 +145,7 @@
     <ClInclude Include="012 재귀함수와 삼항 연산자.h" />
     <ClInclude Include="013 상수 지시 포인터, 포인터 상수, 홀짝 판별기.h" />
     <ClInclude Include="014 포인터 연산.h" />
+    <ClInclude Include="019 범용 포인터.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
