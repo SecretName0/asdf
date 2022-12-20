@@ -71,5 +71,8 @@
     <ClInclude Include="020 열거형 typedef.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="021 rand함수.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
