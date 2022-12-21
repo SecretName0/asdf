@@ -74,5 +74,8 @@
     <ClInclude Include="021 rand함수.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="022 Blocking, Non Blocking 키 입력.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
