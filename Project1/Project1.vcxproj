@@ -130,7 +130,7 @@
     <ClCompile Include="소스2.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="000 pragme warning disable code.h" />
+    <ClInclude Include="자주 사용할 코드.h" />
     <ClInclude Include="001 내용 정리 %28~2022 11 22%29.h" />
     <ClInclude Include="003 입력 함수, 배열.h" />
     <ClInclude Include="004 자료형 변환, 주소.h" />
@@ -149,6 +149,7 @@
     <ClInclude Include="020 열거형 typedef.h" />
     <ClInclude Include="021 rand함수.h" />
     <ClInclude Include="022 Blocking, Non Blocking 키 입력.h" />
+    <ClInclude Include="전처리기와 매크로 2차원배열.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
